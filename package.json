@@ -1,0 +1,22 @@
+{
+  "name": "lost-vs-jeet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp default",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "5.2.0",
+    "gulp": "3.9.0",
+    "gulp-postcss": "5.1.8",
+    "gulp-sass": "2.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "jeet": "6.1.2",
+    "lost": "6.3.0",
+    "node-sass": "3.1.2"
+  }
+}
